@@ -1,0 +1,3 @@
+﻿  project1.cpp
+D:\teleinf-AG\project1\project1\project1.cpp(16,15): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\teleinf-AG\project1\project1\project1.cpp(3,10): error C1075: „{”: nie znaleziono zgodnego tokenu
