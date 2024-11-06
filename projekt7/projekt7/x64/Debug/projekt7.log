@@ -1,0 +1,6 @@
+﻿  projekt7.cpp
+D:\teleinf-AG\projekt7\projekt7.cpp(11,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+D:\teleinf-AG\projekt7\projekt7.cpp(14,21): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+D:\teleinf-AG\projekt7\projekt7.cpp(17,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+D:\teleinf-AG\projekt7\projekt7.cpp(20,21): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  projekt7.vcxproj -> D:\teleinf-AG\projekt7\x64\Debug\projekt7.exe
