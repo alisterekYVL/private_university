@@ -1,0 +1,3 @@
+﻿  projekt8.cpp
+D:\teleinf-AG\projekt8\projekt8.cpp(9,18): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  projekt8.vcxproj -> D:\teleinf-AG\projekt8\x64\Debug\projekt8.exe
