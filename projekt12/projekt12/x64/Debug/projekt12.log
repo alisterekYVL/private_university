@@ -1,0 +1,50 @@
+﻿  PerosnalData.cpp
+D:\teleinf-AG\projekt12\Personal_Data.h(33,3): error C2065: "ofstream": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(33,12): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „out”
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(33,12): error C3861: "out": identyfikatora nie odnaleziono
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(34,7): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(36,5): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(36,43): error C2065: "endl": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(38,4): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „PerosnalData.cpp”)
+  
+D:\teleinf-AG\projekt12\PerosnalData.cpp(11,14): error C1075: „{”: nie znaleziono zgodnego tokenu
+  projekt12.cpp
+D:\teleinf-AG\projekt12\Personal_Data.h(33,3): error C2065: "ofstream": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(33,12): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „out”
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(33,12): error C3861: "out": identyfikatora nie odnaleziono
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(34,7): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(36,5): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(36,43): error C2065: "endl": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\Personal_Data.h(38,4): error C2065: "out": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „projekt12.cpp”)
+  
+D:\teleinf-AG\projekt12\projekt12.cpp(11,10): error C2065: "v": niezadeklarowany identyfikator
+D:\teleinf-AG\projekt12\projekt12.cpp(11,5): error C3861: "Show": identyfikatora nie odnaleziono
+D:\teleinf-AG\projekt12\projekt12.cpp(12,36): error C2065: "v": niezadeklarowany identyfikator
+D:\teleinf-AG\projekt12\projekt12.cpp(12,5): error C3861: "SaveStructToFile": identyfikatora nie odnaleziono
+  Generowanie kodu...
